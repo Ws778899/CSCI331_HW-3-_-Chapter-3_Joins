@@ -12,3 +12,4 @@ https://medium.com/@rganesh0203/cross-join-vs-cartesian-join-sql-server-e8481851
 https://medium.com/ai-analytics-diaries/the-hidden-power-of-joins-sqls-forever-superpower-115716f6fecd
 
 Youtube：
+https://www.youtube.com/watch?v=qMHKu5ZhADA
