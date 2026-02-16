@@ -10,3 +10,5 @@ https://medium.com/@rganesh0203/cross-join-vs-cartesian-join-sql-server-e8481851
 
 （2）Cross join vs Cartesian join SQL Server!
 https://medium.com/ai-analytics-diaries/the-hidden-power-of-joins-sqls-forever-superpower-115716f6fecd
+
+Youtube：
